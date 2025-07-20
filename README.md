@@ -38,6 +38,7 @@
 ## 📫 ¿Hablamos?
 
 📧 Puedes escribirme a: [alosjesus13@gmail.com](mailto:alosjesus13@gmail.com)
+🔗 LinkedIn: [Jesús Alós](https://www.linkedin.com/in/jes%C3%BAs-al%C3%B3s-b32a56375/)
 
 ---
 
