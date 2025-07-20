@@ -37,16 +37,13 @@
 
 ## 📫 ¿Hablamos?
 
-📧 Puedes escribirme a: [alosjesus13@gmail.com](mailto:alosjesus13@gmail.com)
+📧 Puedes escribirme a: [alosjesus13@gmail.com](mailto:alosjesus13@gmail.com)  
+
 🔗 LinkedIn: [Jesús Alós](https://www.linkedin.com/in/jes%C3%BAs-al%C3%B3s-b32a56375/)
 
 ---
 
 > "El código no solo debe funcionar, sino ser legible y mantenible."
-
----
-
-
 
 <!--
 **JesusAlos13/JesusAlos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
