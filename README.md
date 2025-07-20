@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 ¡Hola! Soy Jesús Alós
+🎓 Desarrollador Full Stack graduado en 4Geeks Academy, con más de 4 años de experiencia previa en gestión de equipos y producción industrial.
 
 <!--
 **JesusAlos13/JesusAlos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
