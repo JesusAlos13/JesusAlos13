@@ -1,15 +1,51 @@
-👋 ¡Hola! Soy Jesús Alós
-🎓 Desarrollador Full Stack graduado en 4Geeks Academy, con más de 4 años de experiencia previa en gestión de equipos y producción industrial.
-🧠 ¿Qué sé hacer?
-🖥️ Frontend: HTML5, CSS3, Bootstrap, JavaScript, React (Hooks, Context API, React Router)
-🔧 Backend: Python, Flask, SQLAlchemy, creación y consumo de APIs RESTful, autenticación y autorización (JWT, OAuth)
-🗄️ Bases de datos: PostgreSQL, diseño de esquemas, consultas avanzadas, migraciones con Alembic
-⚙️ DevOps y control de versiones: Git, GitHub.
-🧪 Testing: pruebas unitarias y funcionales (pytest, unittest)
-🔍 Debugging y manejo de errores: seguimiento, logging y resolución de bugs
-🤝 Trabajo en equipo: metodologías ágiles (Scrum, Kanban), comunicación efectiva, colaboración remota
-📫 ¿Hablamos?
-Puedes escribirme a: alosjesus13@gmail.com
+# 👋 ¡Hola! Soy **Jesús Alós**
+
+🎓 **Desarrollador Full Stack** graduado en *4Geeks Academy*, con más de 4 años de experiencia previa en gestión de equipos y producción industrial.
+
+---
+
+## 🧠 ¿Qué sé hacer?
+
+### 🖥️ Frontend
+- HTML5, CSS3, Bootstrap  
+- JavaScript (ES6+), React (Hooks, Context API, React Router)
+
+### 🔧 Backend
+- Python, Flask, SQLAlchemy  
+- Creación y consumo de APIs RESTful  
+- Autenticación y autorización (JWT, OAuth)
+
+### 🗄️ Bases de datos
+- PostgreSQL  
+- Diseño de esquemas y consultas avanzadas  
+- Migraciones con Alembic
+
+### ⚙️ DevOps y control de versiones
+- Git, GitHub
+
+### 🧪 Testing
+- Pruebas unitarias y funcionales (pytest, unittest)
+
+### 🔍 Debugging y manejo de errores
+- Seguimiento, logging y resolución de bugs
+
+### 🤝 Trabajo en equipo
+- Metodologías ágiles (Scrum, Kanban)  
+- Comunicación efectiva y colaboración remota
+
+---
+
+## 📫 ¿Hablamos?
+
+📧 Puedes escribirme a: [alosjesus13@gmail.com](mailto:alosjesus13@gmail.com)
+
+---
+
+> "El código no solo debe funcionar, sino ser legible y mantenible."
+
+---
+
+
 
 <!--
 **JesusAlos13/JesusAlos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
