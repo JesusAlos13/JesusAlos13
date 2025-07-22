@@ -52,9 +52,9 @@
 
 ---
 
-## 🚀 Proyecto personal
+## 🚀 Proyecto personal.
 
-**Web diseñada para crear y realizar sorteos**  
+**¡¡Web diseñada para crear y realizar sorteos!!**  
 _Plataforma intuitiva que facilita la gestión completa de sorteos, desde la creación hasta la selección automática de ganadores, garantizando seguridad y facilidad de uso._
 
 <p align="center">
