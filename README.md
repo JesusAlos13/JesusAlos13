@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Jesús Alós**
+# 👋 ¡Hola! Soy **Jesús Alós.**
 
 🎓 Desarrollador Full Stack graduado en 4Geeks Academy, con pasión por crear soluciones tecnológicas funcionales, escalables y bien estructuradas.  
 💼 Cuento con una sólida experiencia previa en gestión de equipos y producción industrial, lo que me permite combinar habilidades técnicas con una fuerte orientación al trabajo colaborativo, la organización y la mejora continua.
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack.
 
 <p align="center">
   <!-- Frontend -->
@@ -52,17 +52,18 @@
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 Contacta conmigo
 
-<p>
+<p align="center">
   <a href="mailto:alosjesus13@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/jesusalos-b32a56375/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  <a href="https://www.linkedin.com/in/jesusalos-b32a56375/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
 
 
