@@ -1,6 +1,11 @@
 # 👋 ¡Hola! Soy **Jesús Alós**
 
-🎓 **Desarrollador Full Stack** graduado en *4Geeks Academy*, con más de 4 años de experiencia previa en gestión de equipos y producción industrial.
+🎓 Desarrollador Full Stack graduado en 4Geeks Academy, con pasión por crear soluciones tecnológicas funcionales, escalables y bien estructuradas.  
+💼 Cuento con una sólida experiencia previa en gestión de equipos y producción industrial, lo que me permite combinar habilidades técnicas con una fuerte orientación al trabajo colaborativo, la organización y la mejora continua.
+
+🚀 Me especializo en el desarrollo de aplicaciones web modernas utilizando tecnologías como **React**, **Python**, **Flask** y **PostgreSQL**, siguiendo buenas prácticas de código limpio, testing y control de versiones.  
+📚 Siempre estoy aprendiendo algo nuevo y buscando desafíos que me permitan crecer como profesional.
+
 
 ---
 
