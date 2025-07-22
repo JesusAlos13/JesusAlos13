@@ -61,11 +61,11 @@
 ## 📫 ¿Hablamos?
 
 <p>
-  <a href="mailto:alosjesus13@gmail.com" target="_blank">
+  <a href="mailto:alosjesus13@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-al%C3%B3s-b32a56375/" target="_blank">
+  <a href="https://www.linkedin.com/in/jesusalos-b32a56375/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
   </a>
 </p>
