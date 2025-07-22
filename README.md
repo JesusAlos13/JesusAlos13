@@ -68,13 +68,17 @@
   </strong>
 </p>
 
-- Desarrollo front-end con HTML5, CSS, Bootstrap, JavaScript y React  
-- Desarrollo back-end con Python y JavaScript  
-- Bases de datos SQL (MySQL y PostgreSQL)  
-- Conexiones con APIs  
-- Autenticación con JWT  
-- Integración de servicios de terceros  
-- Control de versiones con Git y GitHub
+<p align="center" style="max-width: 500px; margin: 0 auto;">
+  <ul style="list-style-position: inside; text-align: left; display: inline-block; padding-left: 0;">
+    <li>Desarrollo front-end con HTML5, CSS, Bootstrap, JavaScript y React</li>
+    <li>Desarrollo back-end con Python y JavaScript</li>
+    <li>Bases de datos SQL (MySQL y PostgreSQL)</li>
+    <li>Conexiones con APIs</li>
+    <li>Autenticación con JWT</li>
+    <li>Integración de servicios de terceros</li>
+    <li>Control de versiones con Git y GitHub</li>
+  </ul>
+</p>
 
 
 
