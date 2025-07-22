@@ -61,7 +61,11 @@
 </p>
 
 <p align="center">
-  Web diseñada para crear y realizar sorteos
+  <strong>
+    <em style="font-size:20px; color:#2ecc71;">
+      🚀 Web diseñada para crear y realizar sorteos
+    </em>
+  </strong>
 </p>
 
 - Desarrollo front-end con HTML5, CSS, Bootstrap, JavaScript y React  
@@ -71,9 +75,6 @@
 - Autenticación con JWT  
 - Integración de servicios de terceros  
 - Control de versiones con Git y GitHub
-
-
-
 
 
 
