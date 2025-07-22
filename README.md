@@ -52,6 +52,26 @@
 
 ---
 
+## 🚀 Proyecto personal
+
+<p align="center">
+  <a href="https://github.com/4GeeksAcademy/Project-Rifas-Jesus-Diego-Valero" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e7aee756-35fb-4ae0-b23f-2606e3abdd40" alt="4Boleeks" width="400" />
+
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/jesusalos/mi-proyecto-personal" target="_blank" style="font-weight:bold; font-size:1.2rem; color:#0A66C2; text-decoration:none;">
+    Visita mi repositorio en GitHub
+  </a>
+</p>
+
+
+
+---
+
 ## 📫 Contacta conmigo.
 
 <a href="mailto:alosjesus13@gmail.com">
