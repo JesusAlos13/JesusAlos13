@@ -57,16 +57,23 @@
 <p align="center">
   <a href="https://github.com/4GeeksAcademy/Project-Rifas-Jesus-Diego-Valero" target="_blank">
     <img src="https://github.com/user-attachments/assets/e7aee756-35fb-4ae0-b23f-2606e3abdd40" alt="4Boleeks" width="400" />
-
   </a>
 </p>
-
 
 <p align="center">
-  <a href="https://github.com/jesusalos/mi-proyecto-personal" target="_blank" style="font-weight:bold; font-size:1.2rem; color:#0A66C2; text-decoration:none;">
-    Visita mi repositorio en GitHub
-  </a>
+  Web diseñada para crear y realizar sorteos
 </p>
+
+- Desarrollo front-end con HTML5, CSS, Bootstrap, JavaScript y React  
+- Desarrollo back-end con Python y JavaScript  
+- Bases de datos SQL (MySQL y PostgreSQL)  
+- Conexiones con APIs  
+- Autenticación con JWT  
+- Integración de servicios de terceros  
+- Control de versiones con Git y GitHub
+
+
+
 
 
 
