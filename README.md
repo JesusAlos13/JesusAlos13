@@ -27,17 +27,18 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/OAuth-2C3E50?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth"/>
 
+  <!-- Herramientas y testing -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/pytest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/unittest-grey?style=for-the-badge&logo=python&logoColor=white" alt="unittest"/>
+  <img src="https://img.shields.io/badge/Alembic-1B1F23?style=for-the-badge&logoColor=white" alt="Alembic"/>
+
   <!-- Bases de datos -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Alembic-1B1F23?style=for-the-badge&logoColor=white" alt="Alembic"/>
 
   <!-- DevOps / Control de versiones -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-  <!-- Testing -->
-  <img src="https://img.shields.io/badge/pytest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="pytest"/>
-  <img src="https://img.shields.io/badge/unittest-grey?style=for-the-badge&logo=python&logoColor=white" alt="unittest"/>
 
   <!-- Debugging -->
   <img src="https://img.shields.io/badge/Logging-000000?style=for-the-badge&logo=logstash&logoColor=white" alt="Logging"/>
