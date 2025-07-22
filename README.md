@@ -59,7 +59,7 @@ _Plataforma intuitiva que facilita la gestión completa de sorteos, desde la cre
 
 <p align="center">
   <a href="https://github.com/4GeeksAcademy/Project-Rifas-Jesus-Diego-Valero" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e7aee756-35fb-4ae0-b23f-2606e3abdd40" alt="4Boleeks" width="400" />
+    <img src="https://github.com/user-attachments/assets/34ffff9a-f575-4a0c-8c77-ceaa4d8606b0" alt="4Boleeks" width="400" />
   </a>
 </p>
 
