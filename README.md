@@ -63,15 +63,13 @@ _Plataforma intuitiva que facilita la gestión completa de sorteos, desde la cre
   </a>
 </p>
 
-<p>
-  - Desarrollo front-end con HTML5, CSS, Bootstrap, JavaScript y React  
-  - Desarrollo back-end con Python y JavaScript  
-  - Bases de datos SQL (MySQL y PostgreSQL)  
-  - Conexiones con APIs  
-  - Autenticación con JWT  
-  - Integración de servicios de terceros  
-  - Control de versiones con Git y GitHub  
-</p>
+- Desarrollo front-end con HTML5, CSS, Bootstrap, JavaScript y React  
+- Desarrollo back-end con Python y JavaScript  
+- Bases de datos SQL (MySQL y PostgreSQL)  
+- Conexiones con APIs  
+- Autenticación con JWT  
+- Integración de servicios de terceros  
+- Control de versiones con Git y GitHub  
 
 
 
