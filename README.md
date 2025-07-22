@@ -60,9 +60,20 @@
 
 ## 📫 ¿Hablamos?
 
-📧 Puedes escribirme a: [alosjesus13@gmail.com](mailto:alosjesus13@gmail.com)  
+<p>
+  <a href="mailto:alosjesus13@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30"/>
+    alosjesus13@gmail.com
+  </a>
+</p>
 
-🔗 LinkedIn: [Jesús Alós](https://www.linkedin.com/in/jes%C3%BAs-al%C3%B3s-b32a56375/)
+<p>
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-al%C3%B3s-b32a56375/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+    LinkedIn: Jesús Alós
+  </a>
+</p>
+
 
 ---
 
